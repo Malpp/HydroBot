@@ -1,0 +1,10 @@
+﻿{
+  "profiles": {
+    "HydrationBot": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Worker">
+
+    <PropertyGroup>
+        <TargetFramework>netcoreapp3.1</TargetFramework>
+        <UserSecretsId>dotnet-HydrationBot-5A74C1EA-0F9A-41D7-9EC7-4EDE927C307F</UserSecretsId>
+    </PropertyGroup>
+
+    <ItemGroup>
+        <PackageReference Include="Discord.Net" Version="2.1.1" />
+        <PackageReference Include="Microsoft.Extensions.Hosting" Version="3.1.1" />
+    </ItemGroup>
+</Project>
